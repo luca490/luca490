@@ -52,8 +52,8 @@
 ---
 
 ## 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/-Lucas%20Lima%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-oliveira-dev/)](https://www.linkedin.com/in/lucas-oliveira-dev/)
-📧 lucaslima.dev490@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-Lucas%20Lima%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-oliveira-dev/)](https://www.linkedin.com/in/lucaslima020106/)
+📧 lucastech216@gmail.com
 
 ---
 
